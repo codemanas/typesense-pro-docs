@@ -1,0 +1,17 @@
+site_name: Search with Typesense Pro Guide
+theme:
+    name: material
+    font:
+      text: Inclusive Sans
+    palette:
+      primary: custom
+      accent: deep orange
+    features:
+      - navigation.sections
+nav:
+  - Home: index.md
+  - Managing Your Content: collections.md
+  - Customizing Search Fields: schema.md
+  - Smart Words (Synonyms): synonyms.md
+  - Reviewing Search Reports: analytics.md
+  - Hand-Picking Results (Curation): curation.md
