@@ -3,6 +3,7 @@ theme:
     name: material
     font:
       text: Inclusive Sans
+    logo: assets/logo.png
     palette:
       primary: custom
       accent: deep orange
