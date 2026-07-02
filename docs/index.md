@@ -1,6 +1,9 @@
 # Welcome to Your Pro Search Features
 
-Welcome to your search optimization center! This guide will help you configure, manage, and track how your visitors explore your website without needing to worry about complex database code.
+## Requirements
+* As the plugin leverages Typesense features – you will need a minimum of version 0.30
+* For typesense Cluster – please visit your cluster configuration
+* If you are self-hosting, please visit [https://typesense.org/downloads/](https://typesense.org/downloads/)
 
 ### Quick Overview of What You Can Do
 *   **Manage Your Content:** Choose which sections of your website (pages, products, posts) can be searched.

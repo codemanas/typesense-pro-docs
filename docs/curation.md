@@ -2,6 +2,8 @@
 
 Curation gives you ultimate editorial control. It lets you override the regular search algorithm and manually control exactly what shows up at the top of the list when a visitor looks up a specific phrase.
 
+![Setup Curation](assets/curation.png)
+
 ### How to Feature Specific Content
 1. Click **New Curation Set** and give it a descriptive title.
 2. Under **Collections**, check the boxes for the content types you want this rule to apply to (e.g., *Posts* and *Pages*).
