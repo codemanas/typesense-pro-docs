@@ -1,4 +1,6 @@
 site_name: Search with Typesense Pro Guide
+repo_url: https://github.com/codemanas/typesense-pro-docs
+site_author: codemanas
 theme:
   name: material
   font:
